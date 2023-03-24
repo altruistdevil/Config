@@ -1,0 +1,244 @@
+career-stats-settings:
+    data:
+        initialVisited: true
+        welcomedSeason: 13
+    schemaVersion: 1
+champ-select:
+    data:
+        skins:
+            103: 103004
+            107: 107000
+            11: 11000
+            127: 127000
+            131: 131000
+            145: 145000
+            166: 166000
+            234: 234000
+            238: 238000
+            246: 246000
+            266: 266000
+            35: 35000
+            350: 350000
+            360: 360000
+            517: 517000
+            55: 55000
+            56: 56000
+            58: 58000
+            62: 62000
+            63: 63000
+            64: 64000
+            67: 67000
+            69: 69000
+            7: 7000
+            75: 75000
+            78: 78000
+            82: 82000
+            83: 83000
+            84: 84000
+            85: 85000
+            92: 92000
+        spells:
+            400:
+            - 4
+            - 12
+            420:
+            - 4
+            - 14
+            430:
+            - 12
+            - 14
+            440:
+            - 4
+            - 14
+            450:
+            - 4
+            - 32
+            850:
+            - 12
+            - 14
+            900:
+            - 4
+            - 14
+    schemaVersion: 1
+custom-spell-selections:
+    data:
+        custom-spell-selections:
+            spell1: 4
+            spell2: 14
+    schemaVersion: 0
+emotes:
+    data:
+        newEmotes:
+        - 3227
+    schemaVersion: 1
+event-shop:
+    data:
+        lastSeenTokenBalance: 0
+        lastSeenTokenShopOffersVersion: 1602295892
+        lastTimeSeen: "2023-02-19T05:23:59.012Z"
+    schemaVersion: 1
+honeyfruit-account-claim:
+    data:
+        isAccountClaimAutoDismiss: true
+    schemaVersion: 1
+lol-challenges-latest-level-up:
+    data:
+        lastLevelUpTime: 1679064519810
+    schemaVersion: 1
+lol-champ-select:
+    data:
+        championTradeToggleTooltipSeen: true
+        favorites:
+            middle:
+            - 103
+            - 55
+            - 7
+            - 84
+            - 246
+            top:
+            - 55
+            - 7
+            - 84
+        positionSwapToggleTooltipSeen: true
+        reportAndMutingTooltipShown: true
+        runeRecommenderTutorialTipSeen: true
+    schemaVersion: 0
+lol-collection-champions:
+    data:
+        groupingDropdownKey: ""
+        lastVisitTime: 1679037354481
+        sortingDropdownKey: ""
+        unownedFilter: "none"
+    schemaVersion: 1
+lol-collection-chromas:
+    data:
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1675994024567
+        sortingDropdownKey: "acquisitionDate"
+        unavailableFilter: false
+        unownedFilter: false
+    schemaVersion: 2
+lol-collection-summoner-icons:
+    data:
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1673934064744
+        sortingDropdownKey: "acquisitionDate"
+        unavailableFilter: false
+        unownedFilter: false
+    schemaVersion: 2
+lol-collection-wards:
+    data:
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1675994024567
+        sortingDropdownKey: "acquisitionDate"
+        unavailableFilter: false
+        unownedFilter: false
+    schemaVersion: 3
+lol-customizer-icons:
+    data:
+        lastVisitTime: 1676786047724
+    schemaVersion: 1
+lol-customizer-titles:
+    data:
+        lastVisitTime: 1676786052627
+    schemaVersion: 1
+lol-customizer-tokens:
+    data:
+        lastVisitTime: 1676786051558
+    schemaVersion: 1
+lol-general:
+    data:
+        uploadCrashReports: true
+    schemaVersion: 0
+lol-home-hubs:
+    data:
+        lunar-revel-embed-2023:
+            introThemeSelectWatched: "true"
+            introWatched: "true"
+    schemaVersion: 1
+lol-honor:
+    data:
+        recallReleaseNotified: true
+    schemaVersion: 1
+lol-npe-first-touch:
+    data:
+        modeSelected: "summoners-rift"
+    schemaVersion: 1
+lol-npe-rewards:
+    data:
+        challenges:
+            allMissionsCompleted: false
+            totalCount: 8
+        login:
+            allRewardsClaimed: true
+            lastCompletedMissionDate: 1673720033000
+            lastCompletedMissionInternalName: "npe_rewards_login_v1_step7"
+    schemaVersion: 1
+lol-npe-tutorial-path:
+    data:
+        hasSeenTutorialPath: true
+        hasSkippedTutorialPath: true
+        shouldSeeNewPlayerExperience: true
+    schemaVersion: 1
+lol-parties:
+    data:
+        hasSeenOpenPartyFirstExperience: true
+        hasSeenOpenPartyTooltip: true
+    schemaVersion: 1
+lol-player-behavior:
+    data:
+        codeOfConductAccepted: true
+    schemaVersion: 0
+lol-premade-voice:
+    data:
+        autoJoin: true
+        inputMode: "voiceActivity"
+        muteOnConnect: true
+        pushToTalkKey: "[Button 5]"
+        showFirstExperienceInGame: true
+        showFirstExperienceInLCU: false
+    schemaVersion: 1
+lol-profiles:
+    data:
+        ranked-reference-modal-login-seen-for-season: 13
+    schemaVersion: 0
+lol-skins-viewer:
+    data:
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1679037354481
+        sortingDropdownKey: "acquisitionDate"
+        unownedFilter: false
+    schemaVersion: 2
+lol-tft:
+    data:
+        lastTftGameQueueId: 1090
+        previouslySeenSeasons: "TFT8_Series"
+        seenOfferIds:
+            storeOfferIds:
+            - "12e017ff-0e2a-4201-9ab2-bc037707250d"
+            - "efc84cfc-8ef3-449c-8ee9-fe33c9bd835c"
+            tacticianOfferIds:
+            - "3e5e9d55-ddd2-40be-874c-d20236b4318c"
+    schemaVersion: 1
+lol-tutorial:
+    data:
+        championSelectRunesTooltipSeenCount: 9
+        npeRewardsV1IntroSeen: true
+        perksCreateNewPageSeen: true
+        perksPresetPagesSeen: true
+        perksPrimaryPathSeen: true
+        perksStatModsSeen: true
+    schemaVersion: 1
+missions-settings:
+    data:
+        selected_series: "LNY23_series"
+    schemaVersion: 0
+partiesPositionPreferences:
+    data:
+        firstPreference: "MIDDLE"
+        secondPreference: "TOP"
+    schemaVersion: 0
+yourshop:
+    data:
+        lastViewedTimestamp: "2023-02-20T05:20:40.190Z"
+    schemaVersion: 1

@@ -1,0 +1,43 @@
+lol-audio:
+    data:
+        ambientSfxEnabled: false
+        masterSoundEnabled: true
+        musicEnabled: false
+        sfxVolume: 100
+        voiceVolume: 50
+    schemaVersion: 5
+lol-clash:
+    data:
+        simpleStateFlagIds:
+        - "registration_open_tournament_97382"
+        - "lock_in_open_tournament_97382_phase_93382"
+        - "registration_open_tournament_21"
+    schemaVersion: 1
+lol-home:
+    data:
+        useTFTOverride: false
+    schemaVersion: 0
+lol-premade-voice:
+    data:
+        currentCaptureDeviceHandle: ""
+        inputVolume: 0
+        vadSensitivity: 0
+    schemaVersion: 1
+lol-skins-viewer:
+    data:
+        completeSetIdMap: null
+        lastSessionId: "eyJraWQiOiJzMSIsInR5cCI6ImlkX3Rva2VuK2p3dCIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoidWM1YmVDM0ptNVE4ZmxmTmxZZWVBdyIsInN1YiI6ImI1ODA5ZTgwLWNiMDAtNTc0YS1hYmY1LWM2NjIyOGFhY2ZkNCIsImNvdW50cnkiOiJwaGwiLCJjb3VudHJ5X2F0IjoxNjY5MDE4MDk0MDAwLCJhbXIiOlsiZ29vZ2xlX2F1dGgiXSwiaXNzIjoiaHR0cHM6Ly9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7ImN1aWQiOjMxMTQ0NjAxODAzMDk5MjAsImNwaWQiOiJQSDIiLCJ1aWQiOjMxMTQ0NjAxODAzMDk5MjAsInVuYW1lIjpudWxsLCJwdHJpZCI6bnVsbCwicGlkIjoiUEgyIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOmZhbHNlLCJub25jZSI6ImlMdGVKWldRRFpUTlNyQ05Na0hxZUEiLCJhY2NvdW50X3ZlcmlmaWVkIjpmYWxzZSwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwibG9sX3JlZ2lvbiI6W3siYWN0aXZlIjp0cnVlLCJjcGlkIjoiUEgyIiwiY3VpZCI6MzExNDQ2MDE4MDMwOTkyMCwibHAiOmZhbHNlLCJwaWQiOiJQSDIiLCJ1aWQiOjMxMTQ0NjAxODAzMDk5MjB9XSwicGxheWVyX2xvY2FsZSI6ImVuLVVTIiwiZXhwIjoxNjc2MDc1NDY5LCJpYXQiOjE2NzU5ODkwNjksImFjY3QiOnsiZ2FtZV9uYW1lIjoiZmVtYm95IGtpdHRlbiIsInRhZ19saW5lIjoiUEgyIn0sImFnZSI6MTgsImp0aSI6IjJZT19kZXVrYkZnIiwibG9naW5fY291bnRyeSI6InBobCJ9.NK_2HIjWVr5YbYC2mHu7OeTjaDGdE6ZVao_nxmP37Cv9ox7Uk4B-ywp1X5XwVY4hLsZKUe2J57HgWu7kckO32Z-JWapADetWEqZgD6SBzHzvXx-mCfH8E4vfduOUlGqZL7vJKb-R_nPAk9-5H_8J0Jotn-wDEW5boVQjKwZ2Cq4"
+        lastVisitTime: 1675991443836
+        visitedSkinList: []
+    schemaVersion: 1
+lol-user-experience:
+    data:
+        hasBeenPromptedForPotatoMode: true
+        lastKnownMachineSpec: 5
+        potatoModeEnabled: true
+        unloadLeagueClientUx: "never"
+    schemaVersion: 3
+video:
+    data:
+        ZoomScale: 1
+    schemaVersion: 1
