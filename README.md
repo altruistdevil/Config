@@ -1,1 +1,1 @@
-# LoL-Config
+lol config
